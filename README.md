@@ -1,1 +1,1 @@
-Solved 100 Questions of AlgoExpert (algoexpert.io)
+Solved Questions of AlgoExpert (algoexpert.io)
